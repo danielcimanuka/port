@@ -1987,7 +1987,7 @@ textarea {
   -webkit-text-fill-color: transparent;
 }
 
-html, body {
+.html, body {
   overflow-x: hidden;
   width: 100%;
 }
@@ -1999,7 +1999,7 @@ html, body {
   -webkit-text-fill-color: transparent;
 }
 
-h1, h2, h3, p {
+.h1, h2, h3, p {
   word-wrap: break-word;
   overflow-wrap: break-word;
   white-space: normal;
