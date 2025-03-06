@@ -1518,7 +1518,7 @@ s .fs-1 {
 }
 
 .fs-50 {
-  font-size: 50px !important;
+  font-size:37px !important;
 }
 
 .fs-60 {
@@ -1987,24 +1987,11 @@ textarea {
   -webkit-text-fill-color: transparent;
 }
 
-.html, body {
-  overflow-x: hidden;
-  width: 100%;
-}
-
-
 .text-linear-4 {
   background: var(--tc-linear-4);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-
-.h1, h2, h3, p {
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-  white-space: normal;
-}
-
 
 .text-linear-5 {
   background: var(--tc-linear-5);
