@@ -1518,8 +1518,14 @@ s .fs-1 {
 }
 
 .fs-50 {
-  font-size:35px !important;
+  font-size:50px !important;
 }
+@media (max-width: 768px) {  /* Adjusts for tablets and smaller screens */
+  .fs-50 {
+    font-size: 25px !important; /* Adjust as needed */
+  }
+}
+
 
 .fs-60 {
   font-size: 60px !important;
